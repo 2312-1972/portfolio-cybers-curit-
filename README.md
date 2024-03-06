@@ -7,6 +7,8 @@
 
 🌱 J'apprend  le langage  **Python** et je me forme actuellement à l'utlisation des outils  **SIEM** .
 
+🌱 J'ai appris les bases du  language  **SQL** ainsi que celui du  language de communication sous **LINUX** .
+
 👯 J'aimerai collaborer sur l'élaboration  de **PLAYBOOKS**.
 
 📫 Contactez moi  directement: **toppan.frederic@gmail.com**.
